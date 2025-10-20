@@ -1,4 +1,4 @@
-# Requirement
+# Requirements
 - 1). java 8
 - 2). mysql 5.6
 - 3). Maven
