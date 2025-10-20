@@ -1,7 +1,7 @@
-# Requirements
-- 1). java 8
-- 2). mysql 5.6
-- 3). Maven
+# REQURIMENTS
+- java 8
+- mysql 5.6
+- Maven
 
 # MYSQL INSTALLATION
 - apt update && apt install mysql-server
@@ -30,5 +30,5 @@
 - sysctl vm.swappiness=10 (if you want decrease swap)
 
 
-# NOTE
+# REMARK
   You can use the source freely; however, I don’t allow you to make money from it.
